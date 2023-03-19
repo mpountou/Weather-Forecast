@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="network_error">Failed to load Weather Forecast</string>
+    <string name="initial_message">Initializing Weather App</string>
+    <string name="loading_message">Loading Weather Forecast data</string>
+    <string name="location_error_message">Failed to access location</string>
+
+</resources>
